@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="img_currency_logo" type="id" />
+    <item name="tv_currecy_code" type="id" />
+    <item name="tv_other_currency_code" type="id" />
+    <item name="tv_currecy_rate" type="id" />
+    <item name="btn_volatility" type="id" />
+</resources>
